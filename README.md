@@ -1,10 +1,16 @@
-# ten-step-working-knowledge
+<p align="center">
+  <img src="docs/assets/banner.webp" alt="An owl mentor holding a glowing page, five translucent figures arguing around a table, and five floating stone steps rising into the dark" width="100%">
+</p>
 
-**Turn an unfamiliar topic into working knowledge in four movements.**
+<h1 align="center">ten-step-working-knowledge</h1>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
-![Agent Skills](https://img.shields.io/badge/Agent_Skills-open_standard-blueviolet)
-![Dependencies](https://img.shields.io/badge/dependencies-none-green)
+<p align="center"><strong>Turn an unfamiliar topic into working knowledge in four movements.</strong></p>
+
+<p align="center">
+  <a href="LICENSE.md"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License"></a>
+  <img src="https://img.shields.io/badge/Agent_Skills-open_standard-blueviolet" alt="Agent Skills standard">
+  <img src="https://img.shields.io/badge/dependencies-none-green" alt="No dependencies">
+</p>
 
 An agent skill for learning a field fast enough to speak and act in it.
 
@@ -116,10 +122,13 @@ pricing-hardware/
 
 ```
 .
-├── SKILL.md        # The skill: philosophy, method, rules, assumptions, metaphors, principles
-├── README.md       # This file
-├── CHANGELOG.md    # Release history
-└── LICENSE.md      # MIT
+├── SKILL.md              # The skill: philosophy, method, rules, assumptions, metaphors, principles
+├── README.md             # This file
+├── CHANGELOG.md          # Release history
+├── LICENSE.md            # MIT
+└── docs/
+    └── assets/
+        └── banner.webp   # Hero image
 ```
 
 ## Lineage
