@@ -2,6 +2,12 @@
 name: ten-step-working-knowledge
 version: 1.0.0
 description: Turn an unfamiliar topic into working knowledge in four movements — map it through five disagreeing perspectives, build a five-rung ladder, then prove understanding by retrieval and teach-back. Use when someone must learn a field, skill, or decision fast and be able to speak and act competently, not merely summarize.
+license: MIT
+compatibility: Requires live web search and file writes. No scripts, no dependencies, no API keys. Runs in any agent that reads SKILL.md.
+author: epslkslsksndnsjs-lab
+metadata:
+  author: epslkslsksndnsjs-lab
+  tags: learning research study-methods agent-skill
 ---
 
 # Ten Steps to Working Knowledge
