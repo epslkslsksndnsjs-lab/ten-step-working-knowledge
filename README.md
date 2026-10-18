@@ -7,6 +7,7 @@
 <p align="center"><strong>Turn an unfamiliar topic into working knowledge in four movements.</strong></p>
 
 <p align="center">
+  <a href="https://github.com/epslkslsksndnsjs-lab/ten-step-working-knowledge/releases"><img src="https://img.shields.io/github/v/release/epslkslsksndnsjs-lab/ten-step-working-knowledge" alt="Latest release"></a>
   <a href="LICENSE.md"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License"></a>
   <img src="https://img.shields.io/badge/Agent_Skills-open_standard-blueviolet" alt="Agent Skills standard">
   <img src="https://img.shields.io/badge/dependencies-none-green" alt="No dependencies">
