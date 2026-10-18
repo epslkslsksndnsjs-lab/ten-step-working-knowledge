@@ -71,14 +71,15 @@ git clone https://github.com/epslkslsksndnsjs-lab/ten-step-working-knowledge.git
   ~/.claude/skills/ten-step-working-knowledge
 ```
 
-Other skill roots:
+## Where it runs
 
-| Host | Path |
-|---|---|
-| Claude Code | `~/.claude/skills/` |
-| Cross-agent | `~/.agents/skills/` |
-| Codex | `~/.codex/skills/` |
-| WorkBuddy | `~/.workbuddy/skills/` |
+| Host | Install | Skill root |
+|---|---|---|
+| Any Agent Skills host | `npx skills add epslkslsksndnsjs-lab/ten-step-working-knowledge` | managed by the CLI |
+| Claude Code | `npx skills add`, or clone | `~/.claude/skills/` |
+| WorkBuddy | SkillHub search, or drop the folder in | `~/.workbuddy/skills/` |
+| Codex | `npx skills add`, or clone | `~/.codex/skills/` |
+| Cursor, Copilot CLI, OpenCode, OpenClaw | `npx skills add` | `~/.agents/skills/` |
 
 The skill needs web search and file writes. It has no scripts, no dependencies, and no API keys.
 
