@@ -77,7 +77,7 @@ git clone https://github.com/epslkslsksndnsjs-lab/ten-step-working-knowledge.git
 |---|---|---|
 | Any Agent Skills host | `npx skills add epslkslsksndnsjs-lab/ten-step-working-knowledge` | managed by the CLI |
 | Claude Code | `npx skills add`, or clone | `~/.claude/skills/` |
-| WorkBuddy | SkillHub search, or drop the folder in | `~/.workbuddy/skills/` |
+| WorkBuddy | SkillHub search, or [upload the zip](https://github.com/epslkslsksndnsjs-lab/ten-step-working-knowledge/releases/download/v1.0.0/ten-step-working-knowledge.zip) | `~/.workbuddy/skills/` |
 | Codex | `npx skills add`, or clone | `~/.codex/skills/` |
 | Cursor, Copilot CLI, OpenCode, OpenClaw | `npx skills add` | `~/.agents/skills/` |
 
